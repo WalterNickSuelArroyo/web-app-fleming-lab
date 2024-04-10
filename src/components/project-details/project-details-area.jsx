@@ -26,13 +26,13 @@ const ProjectDetailsArea = () => {
                     Category:<span> Laboratory & Science Research</span>
                   </p>
                   <div className="tpoverview__social pt-30">
-                    <a className="tpover-social-tube" href="https://www.youtube.com/@AlexanderFlemingLab" target="_blank">
+                    <a className="tpover-social-tube" href="https://www.youtube.com/@AlexanderFlemingLab" target="_blank" rel="noopener noreferrer">
                       <i className="fa-brands fa-youtube"></i>
                     </a>
-                    <a href="https://www.facebook.com/profile.php?id=61558395356697" target="_blank">
+                    <a href="https://www.facebook.com/profile.php?id=61558395356697" target="_blank" rel="noopener noreferrer">
                       <i className="fa-brands fa-facebook-f"></i>
                     </a>
-                    <a href="https://www.facebook.com/profile.php?id=61558395356697" target="_blank">
+                    <a href="https://www.facebook.com/profile.php?id=61558395356697" target="_blank" rel="noopener noreferrer">
                       <i className="fa-brands fa-instagram-f"></i>
                     </a>
                   </div>

@@ -60,7 +60,7 @@ const AboutArea = () => {
                     </li>
                   </ul>
                   <p className=" mr-20 mb-40">
-                    <b>Historia:</b> En el Programa de Formación "Alexander Fleming", nos apasiona la micología y su potencial para impactar positivamente en diversos campos. Nuestra historia comenzó con la visión de la Tecnóloga Médica Gloria Suel, una apasionada de la micología, quien decidió crear un centro de formación que no solo brindará servicios de consultoría y capacitación especializada, sino que también sirviera como centro de investigación y desarrollo en este fascinante campo.
+                    <b>Historia:</b> En el Programa de Formación Alexander Fleming, nos apasiona la micología y su potencial para impactar positivamente en diversos campos. Nuestra historia comenzó con la visión de la Tecnóloga Médica Gloria Suel, una apasionada de la micología, quien decidió crear un centro de formación que no solo brindará servicios de consultoría y capacitación especializada, sino que también sirviera como centro de investigación y desarrollo en este fascinante campo.
                   </p>
                 </div>
                 <div className="about-content__btn">

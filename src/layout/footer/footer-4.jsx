@@ -84,10 +84,10 @@ const FooterFour = ({ style_2 = false }) => {
                       </ul>
                     </div>
                     <div className="tp-footer-widget__social fw-social">
-                      <a href="https://www.youtube.com/@AlexanderFlemingLab" target="_blank">
+                      <a href="https://www.youtube.com/@AlexanderFlemingLab" target="_blank" rel="noopener noreferrer">
                         <i className="fa-brands fa-youtube"></i>
                       </a>
-                      <a href="https://www.facebook.com/profile.php?id=61558395356697" target="_blank">
+                      <a href="https://www.facebook.com/profile.php?id=61558395356697" target="_blank" rel="noopener noreferrer">
                         <i className="fa-brands fa-facebook-f"></i>
                       </a>
                       <a href="#">
