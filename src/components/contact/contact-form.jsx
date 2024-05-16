@@ -10,7 +10,7 @@ const contact_info = {
       Mz. 67 Lt. 15 Armando V. <br /> Los Olivos, Lima
     </>
   ),
-  phone_1: "+51 944 689 364",
+  phone_1: "+51 931 128 610",
   open: (
     <>
       Lunes - Domingo <br />

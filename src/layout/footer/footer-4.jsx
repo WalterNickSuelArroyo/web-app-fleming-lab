@@ -20,7 +20,7 @@ const FooterFour = ({ style_2 = false }) => {
                     <div className="tp-footer-widget__content mb-95">
                       <i>CONTÁCTANOS CON TODA CONFIANZA</i>
                       <h4 className="tp-footer-widget__contact mb-20">
-                        <a href="https://wa.link/uten11" target="_blank" rel="noopener noreferrer">+51 944 689 364</a>
+                        <a href="https://wa.link/uten11" target="_blank" rel="noopener noreferrer">+51 931 128 610</a>
                       </h4>
                       <a href="mailto:alexander.fleming.lab@gmail.com">alexander.fleming.lab@gmail.com</a>
                     </div>
@@ -73,7 +73,7 @@ const FooterFour = ({ style_2 = false }) => {
                         <li>Mz. 67 Lt. 15 Armando V. Los Olivos, Lima, Peru </li>
                         <li>
                           <a href="https://wa.link/uten11" target="_blank" rel="noopener noreferrer">
-                            (+51)944 689 364
+                            (+51)931 128 610
                           </a>
                         </li>
                         <li>

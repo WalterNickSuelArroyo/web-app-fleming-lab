@@ -47,7 +47,7 @@ const HeaderTwo = () => {
                       <circle cx="2" cy="7" r="2" fill="#0E63FF" />
                       <circle cx="2" cy="12" r="2" fill="#0E63FF" />
                     </svg>
-                    <span>Centro de Ayuda :</span>+51 944 689 364
+                    <span>Centro de Ayuda :</span>+51 931 128 610
                   </a>
                 </div>
                 <button
@@ -96,7 +96,7 @@ const HeaderTwo = () => {
                       <circle cx="2" cy="12" r="2" fill="#0E63FF" />
                     </svg>
                     <span>Centro de ayuda :</span>
-                    <a href="https://wa.link/uten11" target="_blank" rel="noopener noreferrer"> +51 944 689 364 </a>
+                    <a href="https://wa.link/uten11" target="_blank" rel="noopener noreferrer"> +51 931 128 610 </a>
                   </div>
                 </div>
               </div>
