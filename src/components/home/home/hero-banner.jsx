@@ -105,7 +105,7 @@ const HeroBanner = () => {
           <img src="/assets/img/banner/banner-01.png" alt="banner-img" />
           <div className="banner__video-btn">
             <button
-              onClick={() => setIsVideoOpen(true)}
+              onClick={() => setIsVideoOpen(false)}
               className="banner__video-icon popup-video"
             >
               <i className="fa-solid fa-play"></i>

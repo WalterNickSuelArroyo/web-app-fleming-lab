@@ -22,7 +22,7 @@ const ServiceArea = () => {
             <div className="col-lg-7 col-md-12 col-12">
               <div className="services-link text-md-start text-lg-end mb-30">
                 <span>
-                  Nos aseguraremos de que siempre obtengas los mejores resultados:
+                  Nos aseguraremos de obtener los mejores resultados siempre:
                   <Link href="/contact">
                     Contáctanos<i className="fa-solid fa-arrow-right"></i>
                   </Link>
