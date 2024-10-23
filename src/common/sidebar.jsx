@@ -68,7 +68,7 @@ const Sidebar = ({ isActive, setIsActive }) => {
             <i className="fa-solid fa-star"></i>Mz. 67 Lt. 15 Armando V. Los Olivos, Lima, Peru
           </a>
           <a href="https://wa.link/uten11" target="_blank" rel="noopener noreferrer">
-            <i className="fa-solid fa-star"></i>+51 931 128 610
+            <i className="fa-solid fa-star"></i>+51 931 392 043
           </a>
           <a href="mailto:noreply@envato.com">
             <i className="fa-solid fa-star"></i>alexander.fleming.lab@gmail.com
