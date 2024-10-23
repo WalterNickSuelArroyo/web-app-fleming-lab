@@ -65,7 +65,7 @@ const Footer = () => {
                     </a>
                   </h4>
                   <p>
-                    Programa de formación técnica especializada en micología
+                    Programa de Formación para estudiantes y profesionales de Laboratorio
                   </p>
                   <div className="footer-widget__social">
                     <SocialLinks />
