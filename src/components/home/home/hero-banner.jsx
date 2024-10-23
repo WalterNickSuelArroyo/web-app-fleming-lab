@@ -15,7 +15,7 @@ const content = {
   ),
   des: (
     <>
-      Tu centro de formación completo para estudios micológicos{" "}
+      Tu centro de formación completa para estudiantes y profesionales del área de Laboratorio{" "}
       <br />
       comprometidos con el avance de la educación y la investigación
     </>
