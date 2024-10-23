@@ -28,7 +28,7 @@ const HeaderTwo = () => {
             <div className="col-md-8 col-2">
               <div className="tp-mobile-bar d-flex align-items-center justify-content-end">
                 <div className="tp-bt-btn-banner d-none d-md-block d-xl-none mr-30">
-                  <a className="tp-bt-btn" href="https://wa.link/uten11" target="_blank" rel="noopener noreferrer">
+                  <a className="tp-bt-btn" href="https://wa.me/931392043" target="_blank" rel="noopener noreferrer">
                     <svg
                       width="14"
                       height="19"
@@ -96,7 +96,7 @@ const HeaderTwo = () => {
                       <circle cx="2" cy="12" r="2" fill="#0E63FF" />
                     </svg>
                     <span>Centro de ayuda :</span>
-                    <a href="https://wa.link/uten11" target="_blank" rel="noopener noreferrer"> +51 931 392 043 </a>
+                    <a href="https://wa.me/931392043" target="_blank" rel="noopener noreferrer"> +51 931 392 043 </a>
                   </div>
                 </div>
               </div>
@@ -184,7 +184,7 @@ const HeaderTwo = () => {
                         </div>
                       </div>
                     </div>
-                    <Link className="header-bottom-btn" href="https://wa.link/uten11" target="_blank" rel="noopener noreferrer">
+                    <Link className="header-bottom-btn" href="https://wa.me/931392043" target="_blank" rel="noopener noreferrer">
                       Reserva una cita
                     </Link>
                   </div>
