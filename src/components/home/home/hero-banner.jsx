@@ -10,7 +10,7 @@ const content = {
   title: (
     <>
       Programa de Formación <br />
-      Técnica en Micología
+      Para estudiantes y profesionales de Laboratorio
     </>
   ),
   des: (
