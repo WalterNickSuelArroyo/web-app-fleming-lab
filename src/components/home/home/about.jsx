@@ -14,12 +14,12 @@ const content = {
     </>
   ),
   title: "Acerca de Nosotros",
-  section_title: "El Mejor Programa de Formación para Análisis e Investigación",
+  section_title: "El Mejor Programa de Formación en Procedimientos Técnicos, Análisis e Investigación",
   section_sub_title:
     "Contamos con un laboratorio integral para diferentes ensayos.",
   section_des: (
     <>
-      Ofrecemos servicios de análisis e investigación micológica de alta calidad. Nos esforzamos por ser un centro de formación integral para estudios clínicos y proyectos de investigación, comprometidos con la excelencia y la formación de calidad para los estudiantes.
+      Ofrecemos servicios de formación en procedimientos técnicos del área preanalítica y analítica con personal altamente capacitado y con mucha experiencia. Nos esforzamos por ser un centro de formación integral para estudios clínicos y proyectos de investigación, comprometidos con la excelencia y la formación de calidad para los estudiantes.
     </>
   ),
   about_info_list: [
