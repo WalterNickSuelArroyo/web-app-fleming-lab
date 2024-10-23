@@ -30,7 +30,7 @@ const HeaderThree = () => {
             <div className="col-md-8 col-2">
               <div className="tp-mobile-bar d-flex align-items-center justify-content-end">
                 <div className="tp-bt-btn-banner d-none d-md-block d-xl-none mr-30">
-                  <a className="tp-bt-btn" href="https://wa.link/uten11" target="_blank" rel="noopener noreferrer">
+                  <a className="tp-bt-btn" href="https://wa.me/931392043" target="_blank" rel="noopener noreferrer">
                     <svg
                       width="14"
                       height="19"
