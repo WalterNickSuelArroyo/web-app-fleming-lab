@@ -20,7 +20,7 @@ const footer_content = {
       cls: "footer-col-3",
       links: [
         { name: "Mz. 67 Lt. 15 Armando V. Los Olivos, Lima, Peru" },
-        { name: "(+51)931 128 610" },
+        { name: "(+51)931 392 043" },
         { name: "alexander.fleming.lab@gmail.com" },
       ],
     },
@@ -31,7 +31,7 @@ const footer_content = {
       title: "Quick Links",
       support_info: [
         " 27 Division St, New York, NY 10002, USA",
-        "(+51) 931 128 610",
+        "(+51) 931 392 043",
         " juvenus.services@gmail.com",
       ],
       office_time: "Office Hours: 9AM - 4PM",
